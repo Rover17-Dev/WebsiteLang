@@ -1,5 +1,3 @@
-# WebsiteLang
-
 ## Language 
 * Français 
 * English
