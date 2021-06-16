@@ -8,3 +8,4 @@ login:
     bd_input_password: Mot de passe
     bd_input_password_error_invalid: Mot de passe invalide
     bd_input_password_error_incorrect: Mot de passe incorrect
+
