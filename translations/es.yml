@@ -1,0 +1,10 @@
+version: 1.0.0
+login:
+  hd_title: Conectarse
+  bd_title: Me alegro de verle
+  bd_lang: La página se muestra actualmente en español.
+  bd_input_email: Nombre de usuario o dirección de correo electrónico
+  bd_input_email_error: Nombre de usuario o dirección de correo electrónico no válidos
+  bd_input_password: Contraseña
+  bd_input_password_error_invalid: Contraseña no válido
+  bd_input_password_error_incorrect: Contraseña incorrecta

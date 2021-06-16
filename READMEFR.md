@@ -3,6 +3,7 @@
 ### Langages
 * [English](https://github.com/NeronApp/WebsiteLang/blob/main/README.md)
 * [Français](https://github.com/NeronApp/WebsiteLang/blob/main/READMEFR.md)
+* [Español](https://github.com/NeronApp/WebsiteLang/blob/main/READMEES.md)
 
 Ce dépôt contient tout les fichiers de traduction du site www.neronapp.com.
 <be>
