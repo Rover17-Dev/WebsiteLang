@@ -20,5 +20,5 @@ Cada idioma se introduce en el fichero **global.yml** con su nombre y el texto m
 <br>
 Si quieres añadir un idioma, ponte en contacto con nosotros previamente en nuestro [servidor Discord](https://discord.neronapp.com).
 
-### License
+### Licencia
 [WebsiteLang](https://github.com/NeronApp/WebsiteLang) | **©Neron** 2021 - fecha actual
