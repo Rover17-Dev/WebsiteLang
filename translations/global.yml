@@ -1,9 +1,12 @@
 fr:
-  change: Passer en Français
-  name: Français
+    change:  Passer en Français
+    name: Français
 en:
-  change: Switch to English
+  change:  Switch to English
   name: English
 es:
-  change: Cambiar a Español
+  change:  Cambio en Español
   name: Español
+pt:
+  change:  Mudar para o português
+  name: Português
