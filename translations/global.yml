@@ -10,3 +10,7 @@ es:
 pt:
   change:  Mudar para o Português
   name: Português
+it:
+  change: Passa all'italiano
+  name: Italiano
+  beta: true
