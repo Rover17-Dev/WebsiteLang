@@ -1,0 +1,10 @@
+version: 1.0.0
+login:
+  hd_title: Σύνδεση
+  bd_title: Χαίρομαι που σε βλέπω ξανά
+  bd_lang: Η σελίδα εμφανίζεται στα ελληνικά
+  bd_input_email: Ονομα χρήστη ή email
+  bd_input_email_error: Μη έγκυρο όνομα χρήστη ή email
+  bd_input_password: Κωδικός πρόσβασης
+  bd_input_password_error_invalid: Μη έγκυρος κωδικός πρόσβασης
+  bd_input_password_error_incorrect: Λανθασμένος κωδικός πρόσβασης
