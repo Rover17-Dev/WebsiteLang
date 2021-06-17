@@ -1,0 +1,10 @@
+version: 1.0.0
+login:
+  hd_title: Sich einloggen
+  bd_title: Glücklich von wieder sehen Sie
+  bd_lang: Diese Webseite ist heute auf Deutsch
+  bd_input_email: Benutzername oder E-Mail
+  bd_input_email_error: Benutzername oder E-Mail invalide
+  bd_input_password: Passwort
+  bd_input_password_error_invalid: Passwort invalid
+  bd_input_password_error_incorrect: Passwort nicht richtig
