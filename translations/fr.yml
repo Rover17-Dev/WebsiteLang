@@ -2,7 +2,7 @@ version: 1.0.0
 login:
   hd_title: Se connecter
   bd_title: Heureux de vous revoir
-  bd_lang: La page s'affiche actuellement en Français.
+  bd_lang: La page s'affiche actuellement en Français
   bd_input_email: Identifiant ou adresse email
   bd_input_email_error: Identifiant ou adresse email invalide
   bd_input_password: Mot de passe
