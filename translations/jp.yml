@@ -1,0 +1,10 @@
+version: 1.0.0
+login:
+  hd_title: ログインします
+  bd_title: またお会いできてうれしいです
+  bd_lang: このページは現在日本語で表示されています
+  bd_input_email: ユーザー名またはメールアドレス
+  bd_input_email_error: 無効なユーザー名またはメールアドレス
+  bd_input_password: パスワード
+  bd_input_password_error_invalid: パスワードが無効です
+  bd_input_password_error_incorrect: 間違ったパスワード

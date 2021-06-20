@@ -1,5 +1,5 @@
 fr:
-    change:  Passer en Français
+    change: Passer en Français
     name: Français
 en:
   change:  Switch to English
@@ -17,3 +17,11 @@ it:
 gr:
   change: Μετάβαση στα Ελληνικά
   name: Ελληνικά
+jp:
+  change: 日本語に切り替える
+  name: 日本語
+  beta: true
+cn:
+  change: 切換到中文
+  name: 中國人
+  beta: true
