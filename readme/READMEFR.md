@@ -4,6 +4,7 @@
 * [English](https://github.com/NeronApp/WebsiteLang/blob/main/README.md)
 * [Español](https://github.com/NeronApp/WebsiteLang/blob/main/readme/READMEES.md)
 * [Ελληνικά](https://github.com/NeronApp/WebsiteLang/blob/main/readme/READMEGR.md)
+* [Deutsch](https://github.com/NeronApp/WebsiteLang/blob/main/readme/READMEDE.md)
 
 Ce dépôt contient tout les fichiers de traduction du site www.neronapp.com.
 <br>

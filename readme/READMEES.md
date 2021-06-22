@@ -3,7 +3,8 @@
 ### Idiomas
 * [English](https://github.com/NeronApp/WebsiteLang/blob/main/README.md)
 * [Français](https://github.com/NeronApp/WebsiteLang/blob/main/readme/READMEFR.md)
-* [Ελληνικά](https://github.com/NeronApp/WebsiteLang/blob/main/Rreadme/EADMEGR.md)
+* [Ελληνικά](https://github.com/NeronApp/WebsiteLang/blob/main/readme/READMEGR.md)
+* [Deutsch](https://github.com/NeronApp/WebsiteLang/blob/main/readme/READMEDE.md)
 
 Este repositorio contiene todos los ficheros de traducción del sitio www.neronapp.com.
 <br>

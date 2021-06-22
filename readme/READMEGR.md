@@ -4,6 +4,7 @@
 * [English](https://github.com/NeronApp/WebsiteLang/blob/main/README.md)
 * [Français](https://github.com/NeronApp/WebsiteLang/blob/main/readme/READMEFR.md)
 * [Español](https://github.com/NeronApp/WebsiteLang/blob/main/readme/READMEES.md)
+* [Deutsch](https://github.com/NeronApp/WebsiteLang/blob/main/readme/READMEDE.md)
 
 Αυτό το αποθετηρίο περιέχει όλα τα αρχεία μετάφρασης για τον ιστότοπο  www.neronapp.com.
 <br>
