@@ -1,4 +1,6 @@
 version: 1.1.0
+general: 
+  bd_searchbar: Rechercher ou entrer une adresse web
 cookie:
   bd_usage: Neron et ses prestataires tiers, utilisent des cookies ainsi que des technologies similaires pour fournir, actualiser et améliorer ses services.
   bd_consents: Si vous le consentez, nous utiliserons ces données à des fins de personnalisations et ainsi procéderons à des analyses complètement anonymes.
