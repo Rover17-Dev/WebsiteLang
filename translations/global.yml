@@ -1,14 +1,14 @@
 fr:
-    change: Passer en Français
-    name: Français
+  change: Passer en Français
+  name: Français
 en:
-  change:  Switch to English
+  change: Switch to English
   name: English
 es:
-  change:  Cambio en Español
+  change: Cambio en Español
   name: Español
 pt:
-  change:  Mudar para o Português
+  change: Mudar para o Português
   name: Português
 it:
   change: Passa all'italiano
@@ -25,3 +25,6 @@ cn:
   change: 切換到中文
   name: 中國人
   beta: true
+de:
+  change: Bestehen auf Deutsch
+  name: Deutsch
