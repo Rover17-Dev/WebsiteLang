@@ -1,6 +1,9 @@
-version: 1.0.0
+version: 1.1.0
+cookie:
+  bd_usage: Neron et ses prestataires tiers, utilisent des cookies ainsi que des technologies similaires pour fournir, actualiser et améliorer ses services.
+  bd_consents: Si vous le consentez, nous utiliserons ces données à des fins de personnalisations et ainsi procéderons à des analyses complètement anonymes.
 login:
-  hd_title: Σύνδεση
+  bd_title: Σύνδεση
   bd_title: Χαίρομαι που σε βλέπω ξανά
   bd_lang: Η σελίδα εμφανίζεται στα ελληνικά
   bd_input_email: Ονομα χρήστη ή email

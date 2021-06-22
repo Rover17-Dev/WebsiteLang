@@ -1,11 +1,14 @@
-version: 1.0.0
+version: 1.1.0
+cookie:
+  bd_usage: Neron et ses prestataires tiers, utilisent des cookies ainsi que des technologies similaires pour fournir, actualiser et améliorer ses services.
+  bd_consents: Si vous le consentez, nous utiliserons ces données à des fins de personnalisations et ainsi procéderons à des analyses complètement anonymes.
 login:
-    hd_title: Entrar
-    bd_title: Feliz em te ver de novo
-    bd_lang: A página é exibida atualmente em Português
-    bd_input_email: Nome de Usuário ou Endereço de Email
-    bd_input_email_error: Nome de usuário ou endereço de e-mail inválido
-    bd_input_password: Senha
-    bd_input_password_error_invalid: Senha inválida
-    bd_input_password_error_incorrect: Senha incorreta
+  hd_title: Entrar
+  bd_title: Feliz em te ver de novo
+  bd_lang: A página é exibida atualmente em Português
+  bd_input_email: Nome de Usuário ou Endereço de Email
+  bd_input_email_error: Nome de usuário ou endereço de e-mail inválido
+  bd_input_password: Senha
+  bd_input_password_error_invalid: Senha inválida
+  bd_input_password_error_incorrect: Senha incorreta
 

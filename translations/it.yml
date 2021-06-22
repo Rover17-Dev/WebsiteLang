@@ -1,11 +1,14 @@
-version: 0.1.0
+version: 1.1.0
+cookie:
+  bd_usage: Neron et ses prestataires tiers, utilisent des cookies ainsi que des technologies similaires pour fournir, actualiser et améliorer ses services.
+  bd_consents: Si vous le consentez, nous utiliserons ces données à des fins de personnalisations et ainsi procéderons à des analyses complètement anonymes.
 login:
-    hd_title: Per accedere
-    bd_title: Felice di rivederti
-    bd_lang: La pagina è attualmente visualizzata in italiano
-    bd_input_email: Username o Indirizzo Email
-    bd_input_email_error: Nome utente o indirizzo email non valido
-    bd_input_password: Parola d'ordine
-    bd_input_password_error_invalid: Password non valida
-    bd_input_password_error_incorrect: Password errata
+  hd_title: Per accedere
+  bd_title: Felice di rivederti
+  bd_lang: La pagina è attualmente visualizzata in italiano
+  bd_input_email: Username o Indirizzo Email
+  bd_input_email_error: Nome utente o indirizzo email non valido
+  bd_input_password: Parola d'ordine
+  bd_input_password_error_invalid: Password non valida
+  bd_input_password_error_incorrect: Password errata
 
