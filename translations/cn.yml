@@ -7,12 +7,11 @@ cookie:
   bd_btn_accept: Accepter
   bd_btn_more: Plus d'options
 login:
-  hd_title: Entrar
-  bd_title: Feliz em te ver de novo
-  bd_lang: A página é exibida atualmente em Português
-  bd_input_email: Nome de Usuário ou Endereço de Email
-  bd_input_email_error: Nome de usuário ou endereço de e-mail inválido
-  bd_input_password: Senha
-  bd_input_password_error_invalid: Senha inválida
-  bd_input_password_error_incorrect: Senha incorreta
-
+  hd_title: 登錄
+  bd_title: 很高興再次見到你
+  bd_lang: 該頁面目前以中文顯示
+  bd_input_email: 用戶名或郵箱地址
+  bd_input_email_error: 無效的用戶名或電子郵件地址
+  bd_input_password: 密碼
+  bd_input_password_error_invalid: 密碼無效
+  bd_input_password_error_incorrect: 密碼錯誤

@@ -1,0 +1,17 @@
+version: 1.1.0
+general: 
+  bd_searchbar: Suche oder Eingabe einer Webadresse
+cookie:
+  bd_usage: Neron und seine Drittanbieter verwenden Cookies und ähnliche Technologien zur Bereitstellung, Aktualisierung und Verbesserung seiner Dienste.
+  bd_consents: Wenn sie einwilligen, werden wir diese Daten für kundenspezifische Anpassungen nutzen und somit vollständig anonymisierte Analysen durchführen.
+  bd_btn_accept: Akzeptieren
+  bd_btn_more: Mehr Optionen
+login:
+  hd_title: Sich einloggen
+  bd_title: Glücklich von wieder sehen Sie
+  bd_lang: Diese Webseite ist heute auf Deutsch
+  bd_input_email: Benutzername oder E-Mail
+  bd_input_email_error: Benutzername oder E-Mail invalide
+  bd_input_password: Passwort
+  bd_input_password_error_invalid: Passwort invalid
+  bd_input_password_error_incorrect: Passwort nicht richtig

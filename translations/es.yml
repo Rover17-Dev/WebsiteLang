@@ -1,8 +1,15 @@
-version: 1.0.0
+version: 1.1.0
+general: 
+  bd_searchbar: Rechercher ou entrer une adresse web
+cookie:
+  bd_usage: Neron et ses prestataires tiers, utilisent des cookies ainsi que des technologies similaires pour fournir, actualiser et améliorer ses services.
+  bd_consents: Si vous le consentez, nous utiliserons ces données à des fins de personnalisations et ainsi procéderons à des analyses complètement anonymes.
+  bd_btn_accept: Accepter
+  bd_btn_more: Plus d'options
 login:
   hd_title: Conectarse
   bd_title: Me alegro de verle
-  bd_lang: La página se muestra actualmente en español.
+  bd_lang: La página se muestra actualmente en español
   bd_input_email: Nombre de usuario o dirección de correo electrónico
   bd_input_email_error: Nombre de usuario o dirección de correo electrónico no válidos
   bd_input_password: Contraseña

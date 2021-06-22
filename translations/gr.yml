@@ -1,3 +1,4 @@
+
 version: 1.1.1
 general: 
   bd_searchbar: Αναζητήστε ή εισαγάγετε μια διεύθυνση ιστού
@@ -7,7 +8,7 @@ cookie:
   bd_btn_accept: Αποδοχή
   bd_btn_more: Περισσότερες επιλογές
 login:
-  hd_title: Σύνδεση
+  bd_title: Σύνδεση
   bd_title: Χαίρομαι που σε βλέπω ξανά
   bd_lang: Η σελίδα εμφανίζεται στα ελληνικά
   bd_input_email: Ονομα χρήστη ή email

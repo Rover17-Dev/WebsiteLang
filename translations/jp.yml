@@ -7,12 +7,11 @@ cookie:
   bd_btn_accept: Accepter
   bd_btn_more: Plus d'options
 login:
-  hd_title: Entrar
-  bd_title: Feliz em te ver de novo
-  bd_lang: A página é exibida atualmente em Português
-  bd_input_email: Nome de Usuário ou Endereço de Email
-  bd_input_email_error: Nome de usuário ou endereço de e-mail inválido
-  bd_input_password: Senha
-  bd_input_password_error_invalid: Senha inválida
-  bd_input_password_error_incorrect: Senha incorreta
-
+  hd_title: ログインします
+  bd_title: またお会いできてうれしいです
+  bd_lang: このページは現在日本語で表示されています
+  bd_input_email: ユーザー名またはメールアドレス
+  bd_input_email_error: 無効なユーザー名またはメールアドレス
+  bd_input_password: パスワード
+  bd_input_password_error_invalid: パスワードが無効です
+  bd_input_password_error_incorrect: 間違ったパスワード
